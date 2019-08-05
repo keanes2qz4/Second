@@ -4,4 +4,4 @@
 
 
 
-pip
+pip install
